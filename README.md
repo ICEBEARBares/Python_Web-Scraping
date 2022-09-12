@@ -3,9 +3,15 @@
 **This's The Web Scraping Code For Educational Usuage Only!**
 
 
-- DON'T FORGET TO INSTALL "pip install beautifulsoup4"*
-- DON'T FORGET TO INSTALL "pip install requests"*
+- DON'T FORGET TO INSTALL "
 
+```
+pip install beautifulsoup4
+```
+
+```
+pip install requests
+```
 Made By Krerkkiat Wattanaporn
 
 **EXAMPLE : https://www.acep.ac.th/**
