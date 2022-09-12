@@ -3,7 +3,7 @@
 **This's The Web Scraping Code For Educational Usuage Only!**
 
 
-- DON'T FORGET TO INSTALL "
+- DON'T FORGET TO INSTALL
 
 ```
 pip install beautifulsoup4
